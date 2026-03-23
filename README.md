@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Exploring+Coding+%26+Gaming;Building+Interactive+Projects;Learning+New+Technologies;Curious+About+The+World" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Exploring+Coding+%26+Gaming;Learning+New+Technologies;Curious+About+The+World" />
 </p>
 
 ---
@@ -16,13 +16,13 @@
 </p>
 
 I am a **first-year IT student** at MIT, Anna University, passionate about **coding, gaming, and logical problem-solving**.  
-Although I am a beginner in coding, I have **strong curiosity and determination** to learn new technologies and implement practical projects.  
+Although I am a beginner in coding, I have **strong curiosity and determination** to learn new technologies and grow as a developer.  
 
 **Focus areas & ideas:**  
-- 🧩 Building **interactive mini-games** and web projects  
+- 🧩 Building **interactive mini-projects**  
 - 💡 Exploring **Data Structures, Algorithms, and Web Development**  
-- 🎮 Combining **gaming and coding** in creative projects  
-- 📈 Growing as a developer through **consistent learning and experimentation**
+- 🎮 Combining **gaming and coding** in creative ways  
+- 📈 Consistently learning and applying new concepts
 
 ---
 
@@ -38,38 +38,19 @@ Although I am a beginner in coding, I have **strong curiosity and determination*
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=00FFAA&center=true&vCenter=true&width=650&lines=Learning+New+Languages;Building+Mini+Games;Exploring+AI+%26+Algorithms;Creating+Fun+Interactive+Projects" />
-</p>
-
----
-
-## 🚀 Projects & Ideas
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=FF5733&center=true&vCenter=true&width=650&lines=Memory+Quest+Game;Logic-Based+Mini-Games;Small+Web+Applications" />
-</p>
-
-**Highlighted project: Memory Quest – Interactive Game** 🎮  
-- 🖱️ Clickable card sequences  
-- 🎨 Animated, colorful UI  
-- ⚡ Beginner-friendly but engaging  
-- 💡 Teaches logic and memory skills  
-
-**Tech Used:** HTML, CSS, JavaScript (Optional: Python/Node.js/React)  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Memory Quest Demo" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=00FFAA&center=true&vCenter=true&width=650&lines=Learning+New+Languages;Building+Mini+Projects;Exploring+Algorithms;Applying+Coding+Skills" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=FFAA33&center=true&vCenter=true&width=650&lines=Learning+Data+Structures+%26+Algorithms;Building+Interactive+Projects;Exploring+Full-Stack+Basics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=FFAA33&center=true&vCenter=true&width=650&lines=Learning+Data+Structures+%26+Algorithms;Developing+Interactive+Mini-Projects;Exploring+Full-Stack+Basics" />
 </p>
 
 - Strengthening **Data Structures & Algorithms**  
-- Developing **mini-games and web applications**  
-- Exploring **full-stack development and creative coding**  
+- Developing **mini-projects and web applications**  
+- Exploring **full-stack development**  
 
 ---
 
@@ -84,13 +65,6 @@ Although I am a beginner in coding, I have **strong curiosity and determination*
   <a href="https://www.linkedin.com/in/shrivathsan-anandha-kumar-359730379">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=fade" />
   </a>
-</p>
-
----
-
-## ⚡ Fun Quote
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3500&color=FFAA00&center=true&vCenter=true&width=650&lines=New+to+coding+but+never+to+curiosity;Exploring,+learning,+and+building+every+day!" />
 </p>
 
 ---
